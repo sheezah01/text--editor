@@ -70,11 +70,6 @@ python text_editor.py
 
 ---
 
-## **Screenshots**
-(Add screenshots of the application showing features like file handling, editing tools, themes, etc.)
-
----
-
 ## **Future Enhancements**
 - Add syntax highlighting for coding tasks.
 - Implement multi-tab support for editing multiple files.
